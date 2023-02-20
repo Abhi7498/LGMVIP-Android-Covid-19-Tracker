@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CovTrack</string>
+    <string name="total">Total</string>
+    <string name="date">Date</string>
+    <string name="totalconfirmed">Confirmed</string>
+    <string name="totalrecovered">Recovered</string>
+    <string name="totaldeath">Death</string>
+    <string name="_0">0</string>
+    <string name="recovered">Recovered: </string>
+    <string name="death">Death: </string>
+    <string name="last_updated">Last updated: </string>
+    <string name="state_name">State Name</string>
+    <string name="active">Active: </string>
+    <string name="viewmore">View More</string>
+    <string name="total_confirmed">Total Confirmed: </string>
+    <string name="heading">Total Covid-19 Cases in India</string>
+</resources>
